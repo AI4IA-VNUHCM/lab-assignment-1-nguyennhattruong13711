@@ -25,7 +25,7 @@ int main() {
 	int testcase = 10;
 	for (int i = 1; i < testcase; i++)
 	if (snt(i) == 1)
-	printf("%d",i);
+	printf("%d ",i);
 return 0;
 
 }
